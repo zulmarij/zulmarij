@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzulmarijrizqifathullah&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Muhammad Zul Marij Rizqi Fathullah 👋🏾 💻
+
+<img src="https://raw.githubusercontent.com/muhammadzulmarijrizqifathullah/muhammadzulmarijrizqifathullah/master/background.png" alt="muhammad zul marij rizqi fathullah - full stack developer, blogger & pondok programmer community">
