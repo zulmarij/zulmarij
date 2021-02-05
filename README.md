@@ -5,7 +5,7 @@
 [![Twitter Badge](http://img.shields.io/badge/-zul__marij-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/zul_marij)](https://twitter.com/zul_marij) 
 [![GitHub followers](https://img.shields.io/github/followers/zulmarij?label=Follow&style=social)](https://github.com/zulmarij/?tab=follow) 
 [![Instagram Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=Instagram&link=https://www.instagram.com/zulmarij/)](https://www.instagram.com/zulmarij/) 
-[![Facebook Badge](https://img.shields.io/badge/-muhammad.zulmarij-blue?style=social&logo=facebook&link=https://www.facebook.com/muhammad.zulmarij/)](https://www.facebook.com/muhammad_zulmarij/) 
+[![Facebook Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=facebook&link=https://www.facebook.com/zulmarij/)](https://www.facebook.com/zulmarij/) 
 [![Telegram Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=telegram&link=https://www.t.me/zulmarij/)](https://www.t.me/zulmarij/) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij)
 
