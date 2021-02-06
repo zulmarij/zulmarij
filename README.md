@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there <img height="25" width="25"  src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">
+### Hi there <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">
 
 
 [![Twitter Badge](http://img.shields.io/badge/-zul__marij-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/zul_marij)](https://twitter.com/zul_marij)
