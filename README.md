@@ -15,15 +15,10 @@
 <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/background.png" alt="muhammad zul marij rizqi fathullah - full stack developer, blogger & pondok programmer community">
 
 
-<br>
-
 <div align="center">
-**Stats**
- 
+
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&theme=midnight-purple)](https://github.com/zulmarij?tab=follow)
  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=zulmarij&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/zulmarij?tab=follow)
 
 </div>
-
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=zulmarij&repo=banksampah&theme=midnight-purple)](https://github.com/zulmarij?tab=follow)
