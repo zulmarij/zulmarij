@@ -13,3 +13,15 @@
  </div>
  
 <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/background.png" alt="muhammad zul marij rizqi fathullah - full stack developer, blogger & pondok programmer community">
+
+
+<br>
+
+**Stats**
+<div align="center">
+ 
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&theme=dark&layout=compact)](https://github.com/zulmarij?tab=follow)
+ 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zulmarij&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/zulmarij?tab=follow)
+
+</div>
