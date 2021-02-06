@@ -25,3 +25,5 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=zulmarij&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/zulmarij?tab=follow)
 
 </div>
+
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=zulmarij&repo=banksampah&theme=midnight-purple)](https://github.com/zulmarij?tab=follow)
