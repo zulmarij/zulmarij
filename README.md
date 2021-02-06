@@ -17,10 +17,10 @@
 
 <br>
 
-**Stats**
 <div align="center">
+**Stats**
  
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&theme=dark&layout=compact)](https://github.com/zulmarij?tab=follow)
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&theme=dark)](https://github.com/zulmarij?tab=follow)
  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=zulmarij&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/zulmarij?tab=follow)
 
