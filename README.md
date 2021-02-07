@@ -1,6 +1,13 @@
-<div align="center">
+<h2 align='center'> Hi there <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
 
-### Hi there <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">
+<p align="center">
+  <br><img src="https://github.com/zulmarij/zulmarij/blob/master/dev.gif" width="450px"><br><br>
+  <samp> nothing here
+  </samp>
+  <br>
+  
+</p>
+<div align="center">
 
 
 [![Twitter Badge](http://img.shields.io/badge/-zul__marij-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/zul_marij)](https://twitter.com/zul_marij)
