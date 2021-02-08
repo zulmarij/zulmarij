@@ -7,7 +7,7 @@
   <br>  
 </p>
 
-<h3  align='center'>📬 Find me around the web 🌎 </h3>
+<h3  align='center'>Find me around the web 🌎 </h3>
 
 <p align='center'>
   <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
