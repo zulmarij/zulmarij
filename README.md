@@ -1,6 +1,6 @@
 <h2 align='center'> Hi there <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
 
-<p align="center">
+<p align='center'>
   <br><img src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/dev.gif" width="450px"><br><br>
   <samp> nothing here
   </samp>
@@ -25,8 +25,6 @@
 </p>
 
 
-<p align="center">
-
+<p align='center'>
 <a href="https://github.com/zulmarij?tab=follow"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /><!-- space --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" /></a>
-
 </p>
