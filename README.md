@@ -27,32 +27,23 @@
 
 
 <hr>
-<h3 align='center'> 🔭  I’m currently working with ...</h4>
-
-<h4 align='center'> Frontend and Others</h5>
-<p align='center'>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-</p>
-<hr>
-
-
-
-<h3 align='center'> 🌱  I'm currently learning...</h4>
+<h3 align='center'> 🌱  I’m currently working and learning with ...</h4>
 <br>
 <p align='center'>
-  <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Vue%20-%23339903.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/electron%20-%2361DAGB.svg?&style=for-the-badge&logo=electron&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
-
-
 <p align='center'>
 <a href="https://github.com/zulmarij?tab=follow"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /><!-- space --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" /></a>
 </p>
