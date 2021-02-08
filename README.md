@@ -4,8 +4,7 @@
   <br><img src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/dev.gif" width="450px"><br><br>
   <samp> nothing here
   </samp>
-  <br>
-  
+  <br>  
 </p>
 
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
@@ -23,6 +22,19 @@
 <a href="https://www.freecodecamp.org/pkmr"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:punitkmryh95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+<hr>
+<h3 align='center'> 🔭  I’m currently working with ...</h4>
+
+
+<h4 align='center'> Frontend and Others</h5>
+<p align='center'>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+</p>
+<hr>
 
 
 <p align='center'>
