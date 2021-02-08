@@ -7,21 +7,26 @@
   <br>
   
 </p>
-<div align="center">
+
+<h3  align='center'>📬 Find me around the web 🌎 </h3>
+
+<p align='center'>
+  <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+</p>
 
 
-[![Twitter Badge](http://img.shields.io/badge/-zul__marij-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/zul_marij)](https://twitter.com/zul_marij)
-[![GitHub followers](https://img.shields.io/github/followers/zulmarij?label=Follow&style=social)](https://github.com/zulmarij/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=Instagram&link=https://www.instagram.com/zulmarij/)](https://www.instagram.com/zulmarij/) 
-[![Facebook Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=facebook&link=https://www.facebook.com/zulmarij/)](https://www.facebook.com/zulmarij/) 
-[![Telegram Badge](https://img.shields.io/badge/-zulmarij-blue?style=social&logo=telegram&link=https://www.t.me/zulmarij/)](https://www.t.me/zulmarij/) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij)
+<p align='center'>
+  <a href="https://pkharsoor.me"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/pkmryh_kata"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/punityh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.freecodecamp.org/pkmr"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:punitkmryh95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
- </div>
 
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/zulmarij?tab=follow"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /><!-- space --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" /></a>
 
-</div>
+</p>
