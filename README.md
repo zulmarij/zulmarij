@@ -18,8 +18,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij)
 
  </div>
- 
-<img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/background.png" alt="muhammad zul marij rizqi fathullah - full stack developer, blogger & pondok programmer community">
 
 
 <div align="center">
