@@ -1,7 +1,8 @@
-<!--   <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2> -->
-<h2 align='center'>
+<h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
+
+<!--<h2 align='center'>
 <a href="https://github.com/zulmarij?tab=follow"><img height="150px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/name.gif"></a>
-</p>
+</p>-->
  
 <p align='center'>
   <br><img src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/dev.gif" width="450px"><br><br>
@@ -11,10 +12,29 @@
   <br>  
 </p>
 
- <p align='center'>
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
+
+ <!-- <p align='center'>
   <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" /></a>
  </p>
- <hr>
+ <hr>-->
 
 <h3  align='center'> 🌎 Find me around the web </h3>
 
