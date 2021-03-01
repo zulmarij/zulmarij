@@ -20,7 +20,7 @@
 
 <p align='center'>
   <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
-  [![Waka Readme](https://github.com/zulmarij/zulmarij/actions/workflows/stats.yml/badge.svg)](https://github.com/zulmarij/zulmarij/actions/workflows/stats.yml)
+
 </p>
 
 
