@@ -16,6 +16,7 @@
 <!--END_SECTION:waka-->
 
  <!-- <p align='center'>
+  [![Waka Readme](https://github.com/zulmarij/zulmarij/actions/workflows/stats.yml/badge.svg)](https://github.com/zulmarij/zulmarij/actions/workflows/stats.yml)
   <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" /></a>
  </p>
  <hr>-->
