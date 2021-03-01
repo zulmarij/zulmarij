@@ -1,8 +1,7 @@
 <!--   <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2> -->
 <h2 align='center'>
-<img height="150px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/name.gif">
+<a href="https://github.com/zulmarij?tab=follow"><img height="150px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/name.gif"></a>
 </p>
-  <hr>
  
 <p align='center'>
   <br><img src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/dev.gif" width="450px"><br><br>
