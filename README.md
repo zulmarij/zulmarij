@@ -8,15 +8,7 @@
 </p>
 
 <h3 align='center'> :sparkles My followers </h3>
-<p align='center'>
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml/badge.svg"></a>
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
-</p>
-
-
-<hr>
-<h3 align='center'> 🌎 Find me around the web </h3>
-<p align='center'>
+<div align='center'>
     <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -37,9 +29,11 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-</p>
+</div>
 
 
+<hr>
+<h3 align='center'> 🌎 Find me around the web </h3>
 <p align='center'>
     <a href="https://wa.me/6281350887602"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.t.me/zulmarij"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
