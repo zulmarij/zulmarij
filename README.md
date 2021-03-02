@@ -23,6 +23,14 @@ Markdown         1 min           ░░░░░░░░░░░░░░░�
 </p>
 
 <hr>
+<h3 align='center'> 🌱 Quotes</h3>
+<p align='center'>
+      <a href="https://github.com/zulmarij?tab=follow">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+       </a>
+</p>
+
+<hr>
 <h3 align='center'> ✨ My followers </h3>
 <div align='center'>
     <!--START_SECTION:top-followers-->
@@ -63,7 +71,6 @@ Markdown         1 min           ░░░░░░░░░░░░░░░�
 
 <hr>
 <h3 align='center'> 🌱 I’m currently working and learning with ...</h3>
-<br>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
