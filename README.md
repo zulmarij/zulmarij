@@ -4,10 +4,10 @@
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
 </p>
 
-<div align='center'>
-    <p> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</p>
+<p align='center'>
+    <h3> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</h3>
     <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="250">
-</div>
+</p>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
