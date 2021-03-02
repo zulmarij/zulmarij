@@ -5,8 +5,7 @@
 </p>
 
 <p align='center'>
-    <h3 align='left'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</h3>
-    <img align='right' src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="250">
+    <img align='right' src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="500">
 </p>
 
 <hr>
