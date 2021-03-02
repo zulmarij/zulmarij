@@ -5,8 +5,7 @@
 </p>
 
 <p align='center'>
-    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="340">
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" width="500" height="250"/></a>
+    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="450">
 </p>
 
 <hr>
@@ -74,6 +73,8 @@
     </a>
 </p>
 
+<h3 align='center'> 📊 Weekly development breakdown.</h3>
+<p align='center'>
 <!--START_SECTION:waka-->
 ```text
 HTML             12 hrs 42 mins  ███████████████▓░░░░░░░░░   62.76 % 
@@ -83,3 +84,4 @@ JavaScript       1 min           ░░░░░░░░░░░░░░░�
 Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
+</p>
