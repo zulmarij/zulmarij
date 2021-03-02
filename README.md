@@ -3,7 +3,8 @@
 <p align='center'>
   <br><img src="https://raw.githubusercontent.com/zulmarij/zulmarij/main/dev.gif" width="450px"><br><br>
   <samp>
-   Beginner
+   <!--START_SECTION:top-followers--> 
+   <!--END_SECTION:top-followers-->
   </samp>
   <br>  
 </p>
