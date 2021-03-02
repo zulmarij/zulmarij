@@ -1,7 +1,3 @@
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
  
 <p align='center'>
@@ -11,11 +7,6 @@
   </samp>
   <br>  
 </p>
-
- <!-- <p align='center'>
-  <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" /></a>
- </p>
- <hr>-->
 
 <h3  align='center'> 🌎 Find me around the web </h3>
 
@@ -49,13 +40,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <p align='center'>
 <a href="https://github.com/zulmarij?tab=follow"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /><!-- space --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" /></a>
