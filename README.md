@@ -6,8 +6,6 @@
 
 <p align='center'>
     <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="450">
-</p>
-<p align='center'>
     
 <!--START_SECTION:waka-->
 ```text
