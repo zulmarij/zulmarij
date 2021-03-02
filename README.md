@@ -73,3 +73,5 @@
          <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" />
     </a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
