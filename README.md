@@ -74,4 +74,11 @@
     </a>
 </p>
 <!--START_SECTION:waka-->
+```text
+HTML             12 hrs 42 mins  ███████████████▓░░░░░░░░░   62.76 % 
+PHP              3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Blade Template   3 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 % 
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
 <!--END_SECTION:waka-->
