@@ -7,7 +7,7 @@
     <br>
 </p>
 
-<h3 align='center'> :sparkles My followers </h3>
+<h3 align='center'> ✨ My followers </h3>
 <div align='center'>
     <!--START_SECTION:top-followers-->
 <table>
