@@ -1,8 +1,8 @@
 <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
 
-<p align='left'>
-    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="450px">
-</p>
+<div>
+    <img align='left' src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="450px">
+</div>
 
 
 <p align='center'>
