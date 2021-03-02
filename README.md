@@ -3,7 +3,6 @@
 <p align='center'>
     <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="360">
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
-    <a align='center' href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
 </p>
 <p align='center'>
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
