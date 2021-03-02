@@ -5,6 +5,7 @@
 </p>
 
 <p align='center'>
+<img align="right" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="220">
         
 <!--START_SECTION:waka-->
 ```text
@@ -18,7 +19,6 @@ Markdown         1 min           ░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-  <img align="right" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="220">
 </p>
 
 <hr>
