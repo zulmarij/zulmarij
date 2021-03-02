@@ -5,8 +5,9 @@
 </p>
 
 <p align='center'>
-    <img align="left" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="160">
-    
+    <img align="left" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="200">
+    <img align="right">
+        
 <!--START_SECTION:waka-->
 ```text
 HTML             12 hrs 42 mins  ███████████████▓░░░░░░░░░   62.76 % 
@@ -17,6 +18,7 @@ Markdown         1 min           ░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+</img>
 </p>
 
 <hr>
