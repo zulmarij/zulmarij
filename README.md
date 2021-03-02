@@ -7,6 +7,16 @@
     <br>
 </p>
 
+
+<p align='center'>
+<p align='center'>
+ <a href="https://github.com/zulmarij?tab=follow"><img src="https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml/badge.svg"></a>
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml/badge.svg"></a>
+  <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+</p>
+
+<hr>
 <h3 align='center'> ✨ My followers </h3>
 <div align='center'>
     <!--START_SECTION:top-followers-->
