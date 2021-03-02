@@ -1,4 +1,4 @@
-<h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</h2>
+<h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij! <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/catcode.gif"></h2>
 
 <p align='center'>
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
