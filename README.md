@@ -6,7 +6,7 @@
 
 <p align='center'>
     <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="350">
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" width="700" /></a>
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple" width="350" /></a>
 </p>
 
 <hr>
