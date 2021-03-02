@@ -5,7 +5,8 @@
 </p>
 
 <p align='center'>
-    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="500">
+    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="350">
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
 </p>
 
 <hr>
@@ -65,10 +66,6 @@
 </p>
 
 <hr>
-
-<p align='center'>
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
-</p>
 
 <p align='center'>
     <a href="https://github.com/zulmarij?tab=follow">
