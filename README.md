@@ -22,13 +22,6 @@ Markdown         1 min           ░░░░░░░░░░░░░░░�
 
 </p>
 
-<hr>
-<h3 align='center'> 🌱 Quotes</h3>
-<p align='center'>
-      <a href="https://github.com/zulmarij?tab=follow">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-       </a>
-</p>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
