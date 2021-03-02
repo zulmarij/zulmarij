@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-    <img align="left" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="200">
+    <img align="left" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="220">
     <img align="right">
         
 <!--START_SECTION:waka-->
