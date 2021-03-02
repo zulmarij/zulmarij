@@ -1,11 +1,12 @@
 <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
 
 <p align='center'>
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+</p>
+
+<p align='center'>
     <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="360">
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
-</p>
-<p align='center'>
-    <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
 </p>
 
 <hr>
@@ -72,6 +73,7 @@
 
 <p align='center'>
     <a href="https://github.com/zulmarij?tab=follow">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" />
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" /></a>
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" />
+         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulmarij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" />
+    </a>
 </p>
