@@ -1,10 +1,13 @@
 <h2 align='center'> Assalamualaikum <img height="30px" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif">, I'm <a href="https://github.com/zulmarij?tab=follow">Zul Marij!</a> 🧑🏻‍💻</h2>
 
-<div>
-    <img align='left' src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="360">
-    <a align='right' href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
+<p align='center'>
+    <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="360">
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
     <a align='center' href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
-</div>
+</p>
+<p align='center'>
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+</p>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
