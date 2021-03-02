@@ -2,16 +2,10 @@
 
 <div>
     <img align='left' src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="360">
-     <a align='right' href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
-      <a align='center"https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
+    <a align='right' href="https://github.com/zulmarij?tab=follow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zulmarij&theme=midnight-purple"/></a>
+    <a align='center' "https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
 </p>
 </div>
-
-
-<p align='center'>
-  <a href="https://github.com/zulmarij?tab=follow"><img src="https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml/badge.svg"></a>
-  <a href="https://github.com/zulmarij?tab=follow"><img src="https://visitor-badge.glitch.me/badge?page_id=zulmarij.zulmarij"></a>
-</p>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
