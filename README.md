@@ -47,7 +47,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-
+[![Waka Readme](https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml/badge.svg)](https://github.com/zulmarij/zulmarij/actions/workflows/waka.yml)
 <!--END_SECTION:waka-->
 
 <p align='center'>
