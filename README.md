@@ -9,14 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
-Opened **1** issues
+Week: 23 February, 2021 - 02 March, 2021
 
-HTML             12 hrs 42 mins  ███████████████▓░░░░░░░░░   62.76 % 
-PHP              3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Blade Template   3 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 % 
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+HTML         12 hrs 40 mins  ████████████████████▒░░░░   81.30 % 
+PHP          2 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.19 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
