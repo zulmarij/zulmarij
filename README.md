@@ -21,6 +21,14 @@ Blade Template   1 min           ░░░░░░░░░░░░░░░�
 
 </p>
 
+<hr>
+<h3 align='center'> ⚡ Recent Activity </h3>
+<p align='center'>
+    
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</p>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
