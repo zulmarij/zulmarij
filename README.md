@@ -26,6 +26,11 @@ Blade Template   1 min           ░░░░░░░░░░░░░░░�
 <p align='center'>
     
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#25](https://github.com/syofyanzuhad/Laravel-Trick/pull/25) in [syofyanzuhad/Laravel-Trick](https://github.com/syofyanzuhad/Laravel-Trick)
+2. 💪 Opened PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
+3. ❗️ Opened issue [#9](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/issues/9) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
+4. ❗️ Closed issue [#4](https://github.com/anmol098/anmol098/issues/4) in [anmol098/anmol098](https://github.com/anmol098/anmol098)
+5. 💪 Opened PR [#500](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/500) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </p>
