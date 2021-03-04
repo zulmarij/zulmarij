@@ -22,8 +22,8 @@ Blade Template   1 min           ░░░░░░░░░░░░░░░�
 </p>
 
 <hr>
-<h3 align='center'> ⚡ Recent Activity </h3>
-<p align='center'>
+<h3 align='center'> ⚡ Recent activity </h3>
+<div align='center'>
     
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/syofyanzuhad/Laravel-Trick/pull/25) in [syofyanzuhad/Laravel-Trick](https://github.com/syofyanzuhad/Laravel-Trick)
@@ -33,7 +33,7 @@ Blade Template   1 min           ░░░░░░░░░░░░░░░�
 5. 💪 Opened PR [#500](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/500) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
-</p>
+</div>
 
 <hr>
 <h3 align='center'> ✨ My followers </h3>
