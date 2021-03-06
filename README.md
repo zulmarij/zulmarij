@@ -26,11 +26,11 @@ JSON             13 mins         ▓░░░░░░░░░░░░░░�
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/icatpojan/baru/issues/1) in [icatpojan/baru](https://github.com/icatpojan/baru)
-2. 💪 Opened PR [#25](https://github.com/syofyanzuhad/Laravel-Trick/pull/25) in [syofyanzuhad/Laravel-Trick](https://github.com/syofyanzuhad/Laravel-Trick)
-3. 💪 Opened PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
-4. ❗️ Opened issue [#9](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/issues/9) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
-5. ❗️ Closed issue [#4](https://github.com/anmol098/anmol098/issues/4) in [anmol098/anmol098](https://github.com/anmol098/anmol098)
+1. 💪 Opened PR [#506](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/506) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🎉 Merged PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
+3. 💪 Opened PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
+4. ❗️ Opened issue [#1](https://github.com/icatpojan/baru/issues/1) in [icatpojan/baru](https://github.com/icatpojan/baru)
+5. 💪 Opened PR [#25](https://github.com/syofyanzuhad/Laravel-Trick/pull/25) in [syofyanzuhad/Laravel-Trick](https://github.com/syofyanzuhad/Laravel-Trick)
 <!--END_SECTION:activity-->
 
 </div>
