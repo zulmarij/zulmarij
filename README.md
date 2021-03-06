@@ -36,7 +36,7 @@ JSON             13 mins         ▓░░░░░░░░░░░░░░�
 </div>
 
 <hr>
-<h3 align='center'> ✨ My followers </h3>
+<h3 align='center'> ✨ My top followers </h3>
 <div align='center'>
     <!--START_SECTION:top-followers-->
 <table>
