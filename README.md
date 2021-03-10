@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
-PHP              7 hrs 39 mins   ████████████████▓░░░░░░░░   66.61 % 
-Markdown         1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Blade Template   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Other            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JSON             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+PHP              10 hrs 50 mins  ██████████████████▒░░░░░░   73.86 % 
+Markdown         1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Blade Template   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Other            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
 
