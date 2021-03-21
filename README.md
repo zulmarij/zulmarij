@@ -26,7 +26,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/24) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. 💪 Opened PR [#506](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/506) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 2. 🎉 Merged PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
 3. 💪 Opened PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
 4. ❗️ Opened issue [#1](https://github.com/icatpojan/baru/issues/1) in [icatpojan/baru](https://github.com/icatpojan/baru)
@@ -78,13 +78,13 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <h3 align='center'> 🌎 Find me around the web </h3>
 <p align='center'>
     <a href="https://wa.me/6281350887602"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.t.me/zulmarij"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:muhammadzulmarijrizkyfathullah@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.t.me/zulmarij"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:muhammadzulmarijrizkyfathullah@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/zulmarij"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/zulmarij"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/zul_marij"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/zulmarij"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/zulmarij"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -101,7 +101,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>&nbsp;&nbsp;
