@@ -26,7 +26,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#506](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/506) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#24](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/24) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 2. 🎉 Merged PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
 3. 💪 Opened PR [#1](https://github.com/zulmarij/awesome-github-profile-readme/pull/1) in [zulmarij/awesome-github-profile-readme](https://github.com/zulmarij/awesome-github-profile-readme)
 4. ❗️ Opened issue [#1](https://github.com/icatpojan/baru/issues/1) in [icatpojan/baru](https://github.com/icatpojan/baru)
