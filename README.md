@@ -96,14 +96,14 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
