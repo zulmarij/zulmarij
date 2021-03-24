@@ -56,11 +56,11 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
       <a href="https://github.com/icatpojan">ICATPOJAN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WiraJustisiaNega">
-        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
+      <a href="https://github.com/romi9872">
+        <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="romi9872"/>
       </a>
       <br />
-      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
+      <a href="https://github.com/romi9872">Mukhamad Fadil</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziunadev">
@@ -68,6 +68,13 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/ziunadev">Putra Krishna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WiraJustisiaNega">
+        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
+      </a>
+      <br />
+      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
   </tr>
 </table>
