@@ -42,6 +42,13 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/syofyanzuhad">
+        <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
+      </a>
+      <br />
+      <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/RijlanM10">
         <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
       </a>
