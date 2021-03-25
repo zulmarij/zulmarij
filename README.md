@@ -122,7 +122,6 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 <hr>
-
 <p align='center'>
     <a href="https://github.com/zulmarij?tab=follow">
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmarij&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple" />
