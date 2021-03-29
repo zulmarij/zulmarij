@@ -42,6 +42,13 @@ Other   1 min           ░░░░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/muhammad-rizqi">
+        <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/syofyanzuhad">
         <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
       </a>
@@ -63,6 +70,13 @@ Other   1 min           ░░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/icatpojan">ICATPOJAN</a>
     </td>
     <td align="center">
+      <a href="https://github.com/levirs565">
+        <img src="https://avatars2.githubusercontent.com/u/42236775" width="100px;" alt="levirs565"/>
+      </a>
+      <br />
+      <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
       </a>
@@ -76,6 +90,8 @@ Other   1 min           ░░░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ziunadev">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
