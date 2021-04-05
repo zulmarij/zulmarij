@@ -53,6 +53,13 @@ Apache Config   6 mins          ████▒░░░░░░░░░░░
       <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Andihamsah">
+        <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
+      </a>
+      <br />
+      <a href="https://github.com/Andihamsah">Andi Hamsah</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/RijlanM10">
         <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
       </a>
@@ -80,6 +87,8 @@ Apache Config   6 mins          ████▒░░░░░░░░░░░
       <br />
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
         <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
@@ -87,8 +96,6 @@ Apache Config   6 mins          ████▒░░░░░░░░░░░
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ziunadev">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
