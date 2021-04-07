@@ -9,11 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
-PHP             13 mins         █████████████▒░░░░░░░░░░░   53.91 % 
-JSON            6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.84 % 
-Apache Config   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.25 % 
+Blade Template   1 hr 22 mins    ██████████████░░░░░░░░░░░   56.06 % 
+PHP              34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 % 
+Other            24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+JSON             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
 
