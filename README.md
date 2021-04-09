@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2021 - 07 April, 2021
+Week: 01 April, 2021 - 08 April, 2021
 
 Blade Template   1 hr 22 mins    ██████████████░░░░░░░░░░░   56.06 % 
 PHP              34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 % 
