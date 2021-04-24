@@ -84,20 +84,20 @@ Other            12 mins         ▒░░░░░░░░░░░░░░�
       <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ziunadev">
-        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziunadev">Putra Krishna</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
       </a>
       <br />
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ziunadev">
+        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
+      </a>
+      <br />
+      <a href="https://github.com/ziunadev">Putra Krishna</a>
     </td>
     <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
