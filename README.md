@@ -62,18 +62,18 @@ JavaScript       5 mins          ░░░░░░░░░░░░░░░�
       <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RijlanM10">
-        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
-      </a>
-      <br />
-      <a href="https://github.com/RijlanM10">RijlanM10</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/icatpojan">
         <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
       </a>
       <br />
       <a href="https://github.com/icatpojan">ICATPOJAN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RijlanM10">
+        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
+      </a>
+      <br />
+      <a href="https://github.com/RijlanM10">RijlanM10</a>
     </td>
     <td align="center">
       <a href="https://github.com/levirs565">
