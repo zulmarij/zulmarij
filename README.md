@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-PHP              12 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.59 % 
-Blade Template   9 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
-HTML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JavaScript       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+PHP              12 hrs 8 mins   █████████████▓░░░░░░░░░░░   55.02 % 
+Blade Template   9 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.76 % 
+HTML             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
