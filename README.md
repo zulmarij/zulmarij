@@ -9,12 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
-Blade Template   10 hrs 17 mins  ████████████▒░░░░░░░░░░░░   49.55 % 
-PHP              9 hrs 16 mins   ███████████░░░░░░░░░░░░░░   44.62 % 
-HTML             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Blade Template   12 hrs 1 min    ██████████████▓░░░░░░░░░░   59.16 % 
+PHP              7 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.83 % 
+HTML             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
