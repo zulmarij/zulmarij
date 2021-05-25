@@ -118,27 +118,27 @@ PHP              2 hrs 30 mins   ███▓░░░░░░░░░░░�
     <a href="https://instagram.com/zulmarij"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/zul_marij"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/zulmarij"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <hr>
 <h3 align='center'> 🌱 I’m currently working and learning with ...</h3>
 <p align='center'>
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/zulmarij/?tab=follow"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 <hr>
