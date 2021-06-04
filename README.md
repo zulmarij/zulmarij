@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
-Blade Template   7 hrs 41 mins   █████████████████████▓░░░   86.20 % 
-PHP              49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Apache Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Blade Template   7 hrs 39 mins   ██████████████████████▒░░   89.54 % 
+PHP              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Apache Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
