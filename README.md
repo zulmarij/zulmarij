@@ -9,11 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
-Blade Template   9 hrs 33 mins   ███████████████████████▓░   94.64 % 
-PHP              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Blade Template   5 hrs 25 mins   ████████████████████████▓   99.18 % 
+PHP              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
