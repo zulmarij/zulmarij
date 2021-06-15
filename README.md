@@ -9,7 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 June, 2021 - 14 June, 2021
+
+Blade Template   4 hrs 11 mins   ████████████████████████▒   97.02 % 
+PHP              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
 
