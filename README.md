@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 June, 2021 - 19 June, 2021
+Week: 13 June, 2021 - 20 June, 2021
 
 Blade Template   18 hrs 8 mins   ████████████████████▒░░░░   81.98 % 
 PHP              3 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
