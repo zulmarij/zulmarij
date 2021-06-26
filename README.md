@@ -42,6 +42,13 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Motirck">
+        <img src="https://avatars2.githubusercontent.com/u/57419630" width="100px;" alt="Motirck"/>
+      </a>
+      <br />
+      <a href="https://github.com/Motirck">Ricardo Alves Paula</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/muhammad-rizqi">
         <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
       </a>
@@ -83,6 +90,8 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
@@ -90,8 +99,6 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
         <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
