@@ -100,18 +100,18 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WiraJustisiaNega">
-        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
-      </a>
-      <br />
-      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ziunadev">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
       </a>
       <br />
       <a href="https://github.com/ziunadev">Putra Krishna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WiraJustisiaNega">
+        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
+      </a>
+      <br />
+      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
   </tr>
 </table>
