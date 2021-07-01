@@ -110,6 +110,13 @@ PHP              3 hrs 44 mins   ████░░░░░░░░░░░�
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/shikhar321">
+        <img src="https://avatars2.githubusercontent.com/u/78657875" width="100px;" alt="shikhar321"/>
+      </a>
+      <br />
+      <a href="https://github.com/shikhar321">Shikhar Gupta</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
