@@ -9,11 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 July, 2021 - 14 July, 2021
+Week: 09 July, 2021 - 15 July, 2021
 
-Blade Template   7 hrs 14 mins   █████████████░░░░░░░░░░░░   51.82 % 
-PHP              6 hrs 37 mins   ████████████░░░░░░░░░░░░░   47.41 % 
-Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Blade Template   9 hrs 6 mins    ██████████████░░░░░░░░░░░   56.11 % 
+PHP              6 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   43.08 % 
+Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
