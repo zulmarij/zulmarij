@@ -47,18 +47,18 @@ Other            1 hr 25 mins    ██░░░░░░░░░░░░░�
       <a href="https://github.com/Motirck">Ricardo Alves Paula</a>
     </td>
     <td align="center">
-      <a href="https://github.com/muhammad-rizqi">
-        <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
-      </a>
-      <br />
-      <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/syofyanzuhad">
         <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
       </a>
       <br />
       <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muhammad-rizqi">
+        <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Andihamsah">
