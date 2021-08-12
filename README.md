@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2021 - 10 August, 2021
+Week: 05 August, 2021 - 11 August, 2021
 
-Blade Template   20 hrs 47 mins  █████████████████████▓░░░   86.44 % 
-PHP              2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-HTML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Git Config       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Blade Template   16 hrs 9 mins   ███████████████████▒░░░░░   77.97 % 
+PHP              3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+JavaScript       1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Git Config       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
