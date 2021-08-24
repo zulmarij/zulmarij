@@ -76,18 +76,18 @@ Other            1 min           ░░░░░░░░░░░░░░░�
       <a href="https://github.com/icatpojan">ICATPOJAN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RijlanM10">
-        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
-      </a>
-      <br />
-      <a href="https://github.com/RijlanM10">RijlanM10</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ziunadev">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
       </a>
       <br />
       <a href="https://github.com/ziunadev">Putra Krishna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RijlanM10">
+        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
+      </a>
+      <br />
+      <a href="https://github.com/RijlanM10">RijlanM10</a>
     </td>
   </tr>
   <tr>
