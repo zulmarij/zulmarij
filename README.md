@@ -9,12 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
+Week: 22 August, 2021 - 28 August, 2021
 
-PHP              11 hrs 19 mins  ███████████████▒░░░░░░░░░   61.50 % 
-Blade Template   7 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.22 % 
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+PHP              11 hrs 53 mins  █████████████░░░░░░░░░░░░   52.40 % 
+Blade Template   10 hrs 45 mins  ████████████░░░░░░░░░░░░░   47.38 % 
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
