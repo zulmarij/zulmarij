@@ -62,6 +62,13 @@ Bash             2 mins          ░░░░░░░░░░░░░░░�
       <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rahmathidayat9">
+        <img src="https://avatars2.githubusercontent.com/u/73263428" width="100px;" alt="rahmathidayat9"/>
+      </a>
+      <br />
+      <a href="https://github.com/rahmathidayat9">Rahmat Hidayat</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Andihamsah">
         <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
       </a>
@@ -82,6 +89,8 @@ Bash             2 mins          ░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/ziunadev">Putra Krishna</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/RijlanM10">
         <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
@@ -89,8 +98,6 @@ Bash             2 mins          ░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/RijlanM10">RijlanM10</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/levirs565">
         <img src="https://avatars2.githubusercontent.com/u/42236775" width="100px;" alt="levirs565"/>
