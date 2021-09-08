@@ -9,12 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-Blade Template   21 hrs 7 mins   █████████████▓░░░░░░░░░░░   54.49 % 
-PHP              17 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   44.71 % 
-Bash             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Blade Template   27 hrs 49 mins  ██████████████▓░░░░░░░░░░   59.05 % 
+PHP              18 hrs 58 mins  ██████████░░░░░░░░░░░░░░░   40.29 % 
+Bash             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
