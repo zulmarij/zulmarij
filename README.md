@@ -9,12 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-PHP              11 hrs 24 mins  ███████████████░░░░░░░░░░   60.03 % 
-Blade Template   7 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.64 % 
-Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+PHP              5 hrs 16 mins   █████████████████▒░░░░░░░   69.45 % 
+Blade Template   2 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.55 % 
 ```
 <!--END_SECTION:waka-->
 
