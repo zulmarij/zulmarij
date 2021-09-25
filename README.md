@@ -9,10 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
-
-PHP              5 hrs 16 mins   █████████████████▒░░░░░░░   69.45 % 
-Blade Template   2 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
