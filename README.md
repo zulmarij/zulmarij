@@ -64,18 +64,18 @@ No Activity tracked this Week
       <a href="https://github.com/rahmathidayat9">Rahmat Hidayat</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Andihamsah">
-        <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
-      </a>
-      <br />
-      <a href="https://github.com/Andihamsah">Andi Hamsah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ziunadev">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
       </a>
       <br />
       <a href="https://github.com/ziunadev">Putra Krishna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Andihamsah">
+        <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
+      </a>
+      <br />
+      <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
     <td align="center">
       <a href="https://github.com/icatpojan">
