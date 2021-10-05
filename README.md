@@ -20,11 +20,11 @@ No Activity tracked this Week
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/Faiznurullah/Hacktoberfest2021/pull/42) in [Faiznurullah/Hacktoberfest2021](https://github.com/Faiznurullah/Hacktoberfest2021)
-2. 💪 Opened PR [#33](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia/pull/33) in [syofyanzuhad/Laravel-Trik-Indonesia](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia)
-3. 💪 Opened PR [#139](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/pull/139) in [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
-4. 💪 Opened PR [#137](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/pull/137) in [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
-5. 💪 Opened PR [#25](https://github.com/syofyanzuhad/Laravel-Trick/pull/25) in [syofyanzuhad/Laravel-Trick](https://github.com/syofyanzuhad/Laravel-Trick)
+1. 🗣 Commented on [#33](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia/issues/33) in [syofyanzuhad/Laravel-Trik-Indonesia](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia)
+2. 💪 Opened PR [#42](https://github.com/Faiznurullah/Hacktoberfest2021/pull/42) in [Faiznurullah/Hacktoberfest2021](https://github.com/Faiznurullah/Hacktoberfest2021)
+3. 💪 Opened PR [#33](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia/pull/33) in [syofyanzuhad/Laravel-Trik-Indonesia](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia)
+4. 💪 Opened PR [#139](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/pull/139) in [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
+5. 💪 Opened PR [#137](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/pull/137) in [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
 <!--END_SECTION:activity-->
 
 </div>
