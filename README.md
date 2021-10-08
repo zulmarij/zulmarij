@@ -20,11 +20,11 @@ No Activity tracked this Week
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1778](https://github.com/keshavsingh4522/hacktoberfest2021/pull/1778) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-2. 💪 Opened PR [#408](https://github.com/Hansajith98/hacktoberfest2021/pull/408) in [Hansajith98/hacktoberfest2021](https://github.com/Hansajith98/hacktoberfest2021)
-3. 💪 Opened PR [#34](https://github.com/astroidworld/NAME-CARD_hacktoberfest/pull/34) in [astroidworld/NAME-CARD_hacktoberfest](https://github.com/astroidworld/NAME-CARD_hacktoberfest)
-4. 🗣 Commented on [#33](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia/issues/33) in [syofyanzuhad/Laravel-Trik-Indonesia](https://github.com/syofyanzuhad/Laravel-Trik-Indonesia)
-5. 💪 Opened PR [#42](https://github.com/Faiznurullah/Hacktoberfest2021/pull/42) in [Faiznurullah/Hacktoberfest2021](https://github.com/Faiznurullah/Hacktoberfest2021)
+1. 💪 Opened PR [#42](https://github.com/seemantaggarwal/Hacktoberfest2021/pull/42) in [seemantaggarwal/Hacktoberfest2021](https://github.com/seemantaggarwal/Hacktoberfest2021)
+2. 💪 Opened PR [#133](https://github.com/nyancodeid/quotes/pull/133) in [nyancodeid/quotes](https://github.com/nyancodeid/quotes)
+3. 💪 Opened PR [#211](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/pull/211) in [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
+4. 💪 Opened PR [#2109](https://github.com/keshavsingh4522/hacktoberfest2021/pull/2109) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+5. 💪 Opened PR [#1778](https://github.com/keshavsingh4522/hacktoberfest2021/pull/1778) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 </div>
