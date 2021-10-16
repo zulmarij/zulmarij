@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
-Blade Template   27 hrs 2 mins   █████████████████████▒░░░   85.41 % 
-Vue.js           3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-XML              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-PHP              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-CSS              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Blade Template   31 hrs 20 mins  █████████████████████▒░░░   85.98 % 
+Vue.js           3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+XML              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+PHP              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+JavaScript       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
 
