@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 21 October, 2021
+Week: 16 October, 2021 - 22 October, 2021
 
-Blade Template   32 hrs 30 mins  ███████████████████████░░   92.41 % 
-PHP              1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JavaScript       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Bash             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-INI              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Blade Template   37 hrs 15 mins  ██████████████████████▓░░   90.76 % 
+PHP              2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Bash             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+INI              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JavaScript       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 
