@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Blade Template   26 hrs 45 mins  ██████████████████▓░░░░░░   74.28 % 
-PHP              5 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-CSS              3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Git Config       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JavaScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Blade Template   22 hrs 58 mins  ███████████████████▒░░░░░   77.58 % 
+PHP              4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+CSS              1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Git Config       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
