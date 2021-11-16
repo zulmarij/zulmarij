@@ -49,6 +49,13 @@ YAML             50 mins         ▓░░░░░░░░░░░░░░�
       <a href="https://github.com/Motirck">Ricardo Alves Paula</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DionneNoellaBarretto">
+        <img src="https://avatars2.githubusercontent.com/u/16610213" width="100px;" alt="DionneNoellaBarretto"/>
+      </a>
+      <br />
+      <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/syofyanzuhad">
         <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
       </a>
@@ -83,6 +90,8 @@ YAML             50 mins         ▓░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/icatpojan">
         <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
@@ -90,8 +99,6 @@ YAML             50 mins         ▓░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/icatpojan">ICATPOJAN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/RijlanM10">
         <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="RijlanM10"/>
