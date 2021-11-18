@@ -128,6 +128,13 @@ CSS              21 mins         ▒░░░░░░░░░░░░░░�
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jonascaetano">
+        <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
+      </a>
+      <br />
+      <a href="https://github.com/jonascaetano">Jonas Caetano</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/shikhar321">
         <img src="https://avatars2.githubusercontent.com/u/78657875" width="100px;" alt="shikhar321"/>
       </a>
