@@ -121,18 +121,18 @@ CSS              16 mins         ░░░░░░░░░░░░░░░�
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WiraJustisiaNega">
-        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
-      </a>
-      <br />
-      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jonascaetano">
         <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
       </a>
       <br />
       <a href="https://github.com/jonascaetano">Jonas Caetano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WiraJustisiaNega">
+        <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
+      </a>
+      <br />
+      <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
     <td align="center">
       <a href="https://github.com/shikhar321">
