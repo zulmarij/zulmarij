@@ -114,13 +114,6 @@ Bash             1 min           ░░░░░░░░░░░░░░░�
       <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jonascaetano">
-        <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
-      </a>
-      <br />
-      <a href="https://github.com/jonascaetano">Jonas Caetano</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
       </a>
@@ -133,6 +126,13 @@ Bash             1 min           ░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jonascaetano">
+        <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
+      </a>
+      <br />
+      <a href="https://github.com/jonascaetano">Jonas Caetano</a>
     </td>
     <td align="center">
       <a href="https://github.com/shikhar321">
