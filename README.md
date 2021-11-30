@@ -78,14 +78,21 @@ No Activity tracked this Week
       <a href="https://github.com/rahmathidayat9">Rahmat Hidayat</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jonascaetano">
+        <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
+      </a>
+      <br />
+      <a href="https://github.com/jonascaetano">Jonas Caetano</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Andihamsah">
         <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
       </a>
       <br />
       <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/icatpojan">
         <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
@@ -106,13 +113,6 @@ No Activity tracked this Week
       </a>
       <br />
       <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jonascaetano">
-        <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
-      </a>
-      <br />
-      <a href="https://github.com/jonascaetano">Jonas Caetano</a>
     </td>
     <td align="center">
       <a href="https://github.com/fadil9872">
