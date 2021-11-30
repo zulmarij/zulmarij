@@ -9,12 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
-
-PHP              4 hrs 22 mins   █████████████████████▓░░░   86.04 % 
-Blade Template   37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-INI              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
