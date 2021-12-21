@@ -59,18 +59,18 @@ Text   4 mins          ███████████████████
       <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/muhammad-rizqi">
-        <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
-      </a>
-      <br />
-      <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jonascaetano">
         <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
       </a>
       <br />
       <a href="https://github.com/jonascaetano">Jonas Caetano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muhammad-rizqi">
+        <img src="https://avatars2.githubusercontent.com/u/69310085" width="100px;" alt="muhammad-rizqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziunadev">
