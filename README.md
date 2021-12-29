@@ -71,11 +71,11 @@ No Activity tracked this Week
       <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ziunadev">
-        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="ziunadev"/>
+      <a href="https://github.com/naptr">
+        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="naptr"/>
       </a>
       <br />
-      <a href="https://github.com/ziunadev">Putra Krishna</a>
+      <a href="https://github.com/naptr">Putra Krishna</a>
     </td>
     <td align="center">
       <a href="https://github.com/rahmathidayat9">
