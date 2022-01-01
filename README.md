@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 JavaScript   3 hrs 20 mins   ███████████████████████░░   92.03 % 
 JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
