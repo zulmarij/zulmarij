@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
+Week: 30 December, 2021 - 05 January, 2022
 
-JavaScript         8 hrs 43 mins   █████████████████████▒░░░   85.78 % 
-JSON               37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-reStructuredText   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Markdown           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Git Config         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript         9 hrs 32 mins   █████████████████████▒░░░   85.31 % 
+JSON               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+reStructuredText   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
 
