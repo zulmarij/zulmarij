@@ -9,12 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-JavaScript   29 hrs 55 mins  ████████████████████████▓   98.83 % 
-TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript       28 hrs 35 mins  ███████████████████████░░   91.68 % 
+Blade Template   2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+CSS              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
