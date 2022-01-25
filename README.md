@@ -26,7 +26,7 @@ CSS              15 mins         ▒░░░░░░░░░░░░░░�
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/nlohani20/hello-world/pull/9) in [nlohani20/hello-world](https://github.com/nlohani20/hello-world)
+1. ❗️ Opened issue [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
 2. 💪 Opened PR [#3462](https://github.com/openebs/openebs/pull/3462) in [openebs/openebs](https://github.com/openebs/openebs)
 3. 🗣 Commented on [#133](https://github.com/nyancodeid/quotes/issues/133) in [nyancodeid/quotes](https://github.com/nyancodeid/quotes)
 4. 💪 Opened PR [#42](https://github.com/seemantaggarwal/Hacktoberfest2021/pull/42) in [seemantaggarwal/Hacktoberfest2021](https://github.com/seemantaggarwal/Hacktoberfest2021)
