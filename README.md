@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
 JavaScript       22 hrs 23 mins  ███████████████░░░░░░░░░░   60.28 % 
 Blade Template   9 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.37 % 
