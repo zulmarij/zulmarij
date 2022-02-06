@@ -54,18 +54,18 @@ Blade Template   4 mins          ▒░░░░░░░░░░░░░░�
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
-      <a href="https://github.com/syofyanzuhad">
-        <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
-      </a>
-      <br />
-      <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jonascaetano">
         <img src="https://avatars2.githubusercontent.com/u/9288801" width="100px;" alt="jonascaetano"/>
       </a>
       <br />
       <a href="https://github.com/jonascaetano">Jonas Caetano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/syofyanzuhad">
+        <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
+      </a>
+      <br />
+      <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
     </td>
     <td align="center">
       <a href="https://github.com/muhammad-rizqi">
