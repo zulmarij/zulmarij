@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
-
-JavaScript   11 hrs 45 mins  █████████████████████████   99.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
