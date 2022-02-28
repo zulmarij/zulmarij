@@ -8,9 +8,11 @@
 <img align="right" src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/code.gif" width="200">
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 </p>
