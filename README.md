@@ -38,6 +38,13 @@ No activity tracked
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/MrXyfir">
+        <img src="https://avatars2.githubusercontent.com/u/12347375" width="100px;" alt="MrXyfir"/>
+      </a>
+      <br />
+      <a href="https://github.com/MrXyfir">xyfir</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Motirck">
         <img src="https://avatars2.githubusercontent.com/u/57419630" width="100px;" alt="Motirck"/>
       </a>
@@ -79,6 +86,8 @@ No activity tracked
       <br />
       <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rahmathidayat9">
         <img src="https://avatars2.githubusercontent.com/u/73263428" width="100px;" alt="rahmathidayat9"/>
@@ -86,8 +95,6 @@ No activity tracked
       <br />
       <a href="https://github.com/rahmathidayat9">Rahmat Hidayat</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/levirs565">
         <img src="https://avatars2.githubusercontent.com/u/42236775" width="100px;" alt="levirs565"/>
@@ -130,6 +137,8 @@ No activity tracked
       <br />
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shikhar321">
         <img src="https://avatars2.githubusercontent.com/u/78657875" width="100px;" alt="shikhar321"/>
