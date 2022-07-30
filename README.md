@@ -117,13 +117,6 @@ No activity tracked
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rijlan">
-        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="Rijlan"/>
-      </a>
-      <br />
-      <a href="https://github.com/Rijlan">Rijlan Nurfatoni</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
       </a>
@@ -136,6 +129,13 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/shikhar321">Shikhar Gupta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rijlan">
+        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="Rijlan"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rijlan">Rijlan Nurfatoni</a>
     </td>
   </tr>
 </table>
