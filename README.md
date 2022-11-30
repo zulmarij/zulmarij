@@ -22,7 +22,7 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
+1. 🗣 Commented on [#194](https://github.com/toondaey/nestjs-pdf/issues/194) in [toondaey/nestjs-pdf](https://github.com/toondaey/nestjs-pdf)
 2. 🗣 Commented on [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
 3. ❗️ Opened issue [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
 4. 💪 Opened PR [#42](https://github.com/seemantaggarwal/Hacktoberfest2021/pull/42) in [seemantaggarwal/Hacktoberfest2021](https://github.com/seemantaggarwal/Hacktoberfest2021)
