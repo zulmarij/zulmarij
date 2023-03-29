@@ -24,10 +24,10 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/toondaey/nestjs-pdf/issues/194) in [toondaey/nestjs-pdf](https://github.com/toondaey/nestjs-pdf)
-2. 🗣 Commented on [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
-3. ❗️ Opened issue [#2](https://github.com/latuminggi/pdf.js_readonly/issues/2) in [latuminggi/pdf.js_readonly](https://github.com/latuminggi/pdf.js_readonly)
-4. 💪 Opened PR [#42](https://github.com/seemantaggarwal/Hacktoberfest2021/pull/42) in [seemantaggarwal/Hacktoberfest2021](https://github.com/seemantaggarwal/Hacktoberfest2021)
+1. 💪 Opened PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+2. ❌ Closed PR [#1](https://github.com/zulmarij/forum-app-dicoding/pull/1) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+3. 🗣 Commented on [#1](https://github.com/zulmarij/forum-app-dicoding/issues/1) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+4. 💪 Opened PR [#1](https://github.com/zulmarij/forum-app-dicoding/pull/1) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
 5. 💪 Opened PR [#133](https://github.com/nyancodeid/quotes/pull/133) in [nyancodeid/quotes](https://github.com/nyancodeid/quotes)
 <!--END_SECTION:activity-->
 
