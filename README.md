@@ -24,11 +24,11 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/zulmarij/forum-app-dicoding/pull/3) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
-2. 💪 Opened PR [#3](https://github.com/zulmarij/forum-app-dicoding/pull/3) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
-3. 🎉 Merged PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
-4. 💪 Opened PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
-5. ❌ Closed PR [#1](https://github.com/zulmarij/forum-app-dicoding/pull/1) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+1. 💪 Opened PR [#4](https://github.com/zulmarij/forum-app-dicoding/pull/4) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+2. ❌ Closed PR [#3](https://github.com/zulmarij/forum-app-dicoding/pull/3) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+3. 💪 Opened PR [#3](https://github.com/zulmarij/forum-app-dicoding/pull/3) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+4. 🎉 Merged PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+5. 💪 Opened PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
 <!--END_SECTION:activity-->
 
 </div>
