@@ -91,6 +91,13 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Rais30">
+        <img src="https://avatars2.githubusercontent.com/u/70438512" width="100px;" alt="Rais30"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rais30">Rais Azaria Aryaguna </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/levirs565">
         <img src="https://avatars2.githubusercontent.com/u/42236775" width="100px;" alt="levirs565"/>
       </a>
@@ -132,6 +139,8 @@ No activity tracked
       <br />
       <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shikhar321">
         <img src="https://avatars2.githubusercontent.com/u/78657875" width="100px;" alt="shikhar321"/>
