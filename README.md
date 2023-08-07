@@ -166,7 +166,7 @@ No activity tracked
     <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<!--
 <hr>
 <h3 align='center'> 🌱 I’m currently working and learning with ...</h3>
 <p align='center'>
@@ -185,6 +185,7 @@ No activity tracked
      <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>&nbsp;&nbsp;
      <a href="https://github.com/zulmarij?tab=follow"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
+-->
 
 <hr>
 <p align='center'>
