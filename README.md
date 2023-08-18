@@ -24,9 +24,9 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#514](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/514) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. ❌ Closed PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
-3. 💪 Opened PR [#3](https://github.com/zulmarij/forum-app-dicoding/pull/3) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
+1. 💪 Opened PR [#5](https://github.com/syofyanzuhad/freebio.dev/pull/5) in [syofyanzuhad/freebio.dev](https://github.com/syofyanzuhad/freebio.dev)
+2. ❌ Closed PR [#514](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/514) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. ❌ Closed PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
 4. 🎉 Merged PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
 5. 💪 Opened PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
 <!--END_SECTION:activity-->
