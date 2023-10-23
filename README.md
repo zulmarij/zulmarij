@@ -149,11 +149,11 @@ No activity tracked
       <a href="https://github.com/shikhar321">Shikhar Gupta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CrocoXXX">
-        <img src="https://avatars2.githubusercontent.com/u/44195602" width="100px;" alt="CrocoXXX"/>
+      <a href="https://github.com/lawrence-olen">
+        <img src="https://avatars2.githubusercontent.com/u/44195602" width="100px;" alt="lawrence-olen"/>
       </a>
       <br />
-      <a href="https://github.com/CrocoXXX">Olen</a>
+      <a href="https://github.com/lawrence-olen">Olen</a>
     </td>
   </tr>
 </table>
