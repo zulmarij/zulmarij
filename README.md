@@ -105,13 +105,6 @@ No activity tracked
       <a href="https://github.com/Rais30">Rais Azaria Aryaguna </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Andihamsah">
-        <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
-      </a>
-      <br />
-      <a href="https://github.com/Andihamsah">Andi Hamsah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/icatpojan">
         <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
       </a>
@@ -124,6 +117,13 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/Rijlan">Rijlan Nurfatoni</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Andihamsah">
+        <img src="https://avatars2.githubusercontent.com/u/52684294" width="100px;" alt="Andihamsah"/>
+      </a>
+      <br />
+      <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
     <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
