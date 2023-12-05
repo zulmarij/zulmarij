@@ -24,7 +24,7 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/syofyanzuhad/freebio.dev/pull/6) in [syofyanzuhad/freebio.dev](https://github.com/syofyanzuhad/freebio.dev)
+1. 🗣 Commented on [#5799](https://github.com/JedWatson/react-select/issues/5799#issuecomment-1840498654) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
 2. 💪 Opened PR [#5](https://github.com/syofyanzuhad/freebio.dev/pull/5) in [syofyanzuhad/freebio.dev](https://github.com/syofyanzuhad/freebio.dev)
 3. ❌ Closed PR [#514](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/514) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 4. ❌ Closed PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
