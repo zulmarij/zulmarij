@@ -65,7 +65,7 @@ No activity tracked
         <img src="https://avatars2.githubusercontent.com/u/52684582" width="100px;" alt="syofyanzuhad"/>
       </a>
       <br />
-      <a href="https://github.com/syofyanzuhad">Syofyan Zuhad</a>
+      <a href="https://github.com/syofyanzuhad">Syofyan Zuhad 🇵🇸</a>
     </td>
     <td align="center">
       <a href="https://github.com/naptr">
