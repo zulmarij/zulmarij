@@ -149,6 +149,13 @@ No activity tracked
       <a href="https://github.com/shikhar321">Shikhar Gupta</a>
     </td>
     <td align="center">
+      <a href="https://github.com/thorvinz">
+        <img src="https://avatars2.githubusercontent.com/u/142652853" width="100px;" alt="thorvinz"/>
+      </a>
+      <br />
+      <a href="https://github.com/thorvinz">Thorvin Andrea</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lawrence-olen">
         <img src="https://avatars2.githubusercontent.com/u/44195602" width="100px;" alt="lawrence-olen"/>
       </a>
