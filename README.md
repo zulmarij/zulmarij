@@ -162,13 +162,6 @@ No activity tracked
       <br />
       <a href="https://github.com/thorvinz">Thorvin Andrea</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/mowhn">
-        <img src="https://avatars2.githubusercontent.com/u/184830396" width="100px;" alt="mowhn"/>
-      </a>
-      <br />
-      <a href="https://github.com/mowhn">mr_mowhn</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
