@@ -75,18 +75,18 @@ No activity tracked
       <a href="https://github.com/syofyanzuhad">Syofyan Zuhad 🇵🇸</a>
     </td>
     <td align="center">
-      <a href="https://github.com/naptr">
-        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="naptr"/>
-      </a>
-      <br />
-      <a href="https://github.com/naptr">Putra Krishna</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rahmathidayat9">
         <img src="https://avatars2.githubusercontent.com/u/73263428" width="100px;" alt="rahmathidayat9"/>
       </a>
       <br />
       <a href="https://github.com/rahmathidayat9">Rahmat Hidayat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/naptr">
+        <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="naptr"/>
+      </a>
+      <br />
+      <a href="https://github.com/naptr">Putra Krishna</a>
     </td>
   </tr>
   <tr>
@@ -156,18 +156,18 @@ No activity tracked
       <a href="https://github.com/shikhar321">Shikhar Gupta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thorvinz">
-        <img src="https://avatars2.githubusercontent.com/u/142652853" width="100px;" alt="thorvinz"/>
-      </a>
-      <br />
-      <a href="https://github.com/thorvinz">Thorvin Andrea</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lawrence-olen">
         <img src="https://avatars2.githubusercontent.com/u/44195602" width="100px;" alt="lawrence-olen"/>
       </a>
       <br />
       <a href="https://github.com/lawrence-olen">Olen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thorvinz">
+        <img src="https://avatars2.githubusercontent.com/u/142652853" width="100px;" alt="thorvinz"/>
+      </a>
+      <br />
+      <a href="https://github.com/thorvinz">Thorvin Andrea</a>
     </td>
   </tr>
 </table>
