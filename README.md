@@ -24,8 +24,8 @@ No activity tracked
 <div align='center'>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6217](https://github.com/wenzhixin/bootstrap-table/issues/6217#issuecomment-2906868758) in [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
-2. 🗣 Commented on [#33636](https://github.com/twbs/bootstrap/issues/33636#issuecomment-2906867022) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
+1. 🗣 Commented on [#7449](https://github.com/shadcn-ui/ui/issues/7449#issuecomment-3190546723) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#7449](https://github.com/shadcn-ui/ui/issues/7449#issuecomment-3190541021) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 3. ❌ Closed PR [#514](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/514) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 4. ❌ Closed PR [#10](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX/pull/10) in [syofyanzuhad/Point-of-Sale-with-AJAX](https://github.com/syofyanzuhad/Point-of-Sale-with-AJAX)
 5. 💪 Opened PR [#2](https://github.com/zulmarij/forum-app-dicoding/pull/2) in [zulmarij/forum-app-dicoding](https://github.com/zulmarij/forum-app-dicoding)
