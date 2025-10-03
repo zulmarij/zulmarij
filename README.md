@@ -126,18 +126,18 @@ No activity tracked
       <a href="https://github.com/Andihamsah">Andi Hamsah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rijlan">
-        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="rijlan"/>
-      </a>
-      <br />
-      <a href="https://github.com/rijlan">Rijlan Nurfatoni</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
         <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
       </a>
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rijlan">
+        <img src="https://avatars2.githubusercontent.com/u/63373839" width="100px;" alt="rijlan"/>
+      </a>
+      <br />
+      <a href="https://github.com/rijlan">Rijlan Nurfatoni</a>
     </td>
   </tr>
   <tr>
