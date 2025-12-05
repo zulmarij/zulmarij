@@ -47,13 +47,6 @@ No activity tracked
       <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CelaDaniel">
-        <img src="https://avatars2.githubusercontent.com/u/13622306" width="100px;" alt="CelaDaniel"/>
-      </a>
-      <br />
-      <a href="https://github.com/CelaDaniel">Daniel Cela</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Motirck">
         <img src="https://avatars2.githubusercontent.com/u/57419630" width="100px;" alt="Motirck"/>
       </a>
@@ -88,8 +81,6 @@ No activity tracked
       <br />
       <a href="https://github.com/levirs565">Levi Rizki Saputra</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/naptr">
         <img src="https://avatars2.githubusercontent.com/u/71458677" width="100px;" alt="naptr"/>
@@ -97,6 +88,8 @@ No activity tracked
       <br />
       <a href="https://github.com/naptr">Putra Krishna</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rahmathidayat9">
         <img src="https://avatars2.githubusercontent.com/u/73263428" width="100px;" alt="rahmathidayat9"/>
@@ -139,8 +132,6 @@ No activity tracked
       <br />
       <a href="https://github.com/rijlan">Rijlan Nurfatoni</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WiraJustisiaNega">
         <img src="https://avatars2.githubusercontent.com/u/78360978" width="100px;" alt="WiraJustisiaNega"/>
@@ -148,6 +139,8 @@ No activity tracked
       <br />
       <a href="https://github.com/WiraJustisiaNega">WiraJustisiaNega</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fadil9872">
         <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
