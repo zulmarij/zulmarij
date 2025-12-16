@@ -116,7 +116,7 @@ No activity tracked
         <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
       </a>
       <br />
-      <a href="https://github.com/icatpojan">icatpojan</a>
+      <a href="https://github.com/icatpojan">Irsyad Fauzan</a>
     </td>
     <td align="center">
       <a href="https://github.com/Andihamsah">
