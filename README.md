@@ -142,6 +142,13 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/rakeshvellaisamy">
+        <img src="https://avatars2.githubusercontent.com/u/132210230" width="100px;" alt="rakeshvellaisamy"/>
+      </a>
+      <br />
+      <a href="https://github.com/rakeshvellaisamy">Rakesh Junior</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/shikhar321">
         <img src="https://avatars2.githubusercontent.com/u/78657875" width="100px;" alt="shikhar321"/>
       </a>
