@@ -105,18 +105,18 @@ No activity tracked
       <a href="https://github.com/muhammad-rizqi">Muhammad Rizqi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/icatpojan">
-        <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
-      </a>
-      <br />
-      <a href="https://github.com/icatpojan">Irsyad Fauzan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Rais30">
         <img src="https://avatars2.githubusercontent.com/u/70438512" width="100px;" alt="Rais30"/>
       </a>
       <br />
       <a href="https://github.com/Rais30">Rais Azaria Aryaguna </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/icatpojan">
+        <img src="https://avatars2.githubusercontent.com/u/70455184" width="100px;" alt="icatpojan"/>
+      </a>
+      <br />
+      <a href="https://github.com/icatpojan">Irsyad Fauzan</a>
     </td>
     <td align="center">
       <a href="https://github.com/Andihamsah">
