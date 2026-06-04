@@ -142,6 +142,13 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/fadil9872">
+        <img src="https://avatars2.githubusercontent.com/u/70373705" width="100px;" alt="fadil9872"/>
+      </a>
+      <br />
+      <a href="https://github.com/fadil9872">Mukhamad Fadil</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rakeshvellaisamy">
         <img src="https://avatars2.githubusercontent.com/u/132210230" width="100px;" alt="rakeshvellaisamy"/>
       </a>
